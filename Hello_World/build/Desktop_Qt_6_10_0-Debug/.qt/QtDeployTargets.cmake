@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Hello_World_FILE /home/anhtdh/QT/Hello_World/build/Desktop_Qt_6_10_0-Debug/Hello_World)
+set(__QT_DEPLOY_TARGET_Hello_World_TYPE EXECUTABLE)

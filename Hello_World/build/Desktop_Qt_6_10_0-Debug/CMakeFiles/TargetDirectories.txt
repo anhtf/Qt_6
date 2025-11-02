@@ -1,0 +1,9 @@
+/home/anhtdh/QT/Hello_World/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/Hello_World.dir
+/home/anhtdh/QT/Hello_World/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/edit_cache.dir
+/home/anhtdh/QT/Hello_World/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/anhtdh/QT/Hello_World/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/list_install_components.dir
+/home/anhtdh/QT/Hello_World/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/install.dir
+/home/anhtdh/QT/Hello_World/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/install/local.dir
+/home/anhtdh/QT/Hello_World/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/install/strip.dir
+/home/anhtdh/QT/Hello_World/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/Hello_World_autogen_timestamp_deps.dir
+/home/anhtdh/QT/Hello_World/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/Hello_World_autogen.dir
