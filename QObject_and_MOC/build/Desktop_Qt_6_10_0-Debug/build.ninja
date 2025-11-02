@@ -73,6 +73,14 @@ build CMakeFiles/QObject_and_MOC.dir/task.cpp.o: CXX_COMPILER__QObject_and_MOC_u
   OBJECT_DIR = CMakeFiles/QObject_and_MOC.dir
   OBJECT_FILE_DIR = CMakeFiles/QObject_and_MOC.dir
 
+build CMakeFiles/QObject_and_MOC.dir/task_manager.cpp.o: CXX_COMPILER__QObject_and_MOC_unscanned_Debug /home/anhtdh/QT/QObject_and_MOC/task_manager.cpp || cmake_object_order_depends_target_QObject_and_MOC
+  DEFINES = -DQT_CORE_LIB
+  DEP_FILE = CMakeFiles/QObject_and_MOC.dir/task_manager.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always -fPIC
+  INCLUDES = -I/home/anhtdh/QT/QObject_and_MOC/build/Desktop_Qt_6_10_0-Debug/QObject_and_MOC_autogen/include -isystem /home/anhtdh/Qt/6.10.0/gcc_64/include/QtCore -isystem /home/anhtdh/Qt/6.10.0/gcc_64/include -isystem /home/anhtdh/Qt/6.10.0/gcc_64/mkspecs/linux-g++
+  OBJECT_DIR = CMakeFiles/QObject_and_MOC.dir
+  OBJECT_FILE_DIR = CMakeFiles/QObject_and_MOC.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target QObject_and_MOC
@@ -81,7 +89,7 @@ build CMakeFiles/QObject_and_MOC.dir/task.cpp.o: CXX_COMPILER__QObject_and_MOC_u
 #############################################
 # Link the executable QObject_and_MOC
 
-build QObject_and_MOC: CXX_EXECUTABLE_LINKER__QObject_and_MOC_Debug CMakeFiles/QObject_and_MOC.dir/QObject_and_MOC_autogen/mocs_compilation.cpp.o CMakeFiles/QObject_and_MOC.dir/main.cpp.o CMakeFiles/QObject_and_MOC.dir/task.cpp.o | /home/anhtdh/Qt/6.10.0/gcc_64/lib/libQt6Core.so.6.10.0 || QObject_and_MOC_autogen QObject_and_MOC_autogen_timestamp_deps
+build QObject_and_MOC: CXX_EXECUTABLE_LINKER__QObject_and_MOC_Debug CMakeFiles/QObject_and_MOC.dir/QObject_and_MOC_autogen/mocs_compilation.cpp.o CMakeFiles/QObject_and_MOC.dir/main.cpp.o CMakeFiles/QObject_and_MOC.dir/task.cpp.o CMakeFiles/QObject_and_MOC.dir/task_manager.cpp.o | /home/anhtdh/Qt/6.10.0/gcc_64/lib/libQt6Core.so.6.10.0 || QObject_and_MOC_autogen QObject_and_MOC_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = -Wl,-rpath,/home/anhtdh/Qt/6.10.0/gcc_64/lib:  /home/anhtdh/Qt/6.10.0/gcc_64/lib/libQt6Core.so.6.10.0
   OBJECT_DIR = CMakeFiles/QObject_and_MOC.dir

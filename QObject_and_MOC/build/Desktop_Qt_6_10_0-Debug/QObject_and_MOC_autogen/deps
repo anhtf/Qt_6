@@ -8,7 +8,10 @@ QObject_and_MOC_autogen/timestamp: \
 	/home/anhtdh/QT/QObject_and_MOC/main.cpp \
 	/home/anhtdh/QT/QObject_and_MOC/task.cpp \
 	/home/anhtdh/QT/QObject_and_MOC/task.h \
+	/home/anhtdh/QT/QObject_and_MOC/task_manager.cpp \
+	/home/anhtdh/QT/QObject_and_MOC/task_manager.h \
 	/home/anhtdh/Qt/6.10.0/gcc_64/include/QtCore/QDebug \
+	/home/anhtdh/Qt/6.10.0/gcc_64/include/QtCore/QList \
 	/home/anhtdh/Qt/6.10.0/gcc_64/include/QtCore/QObject \
 	/home/anhtdh/Qt/6.10.0/gcc_64/include/QtCore/QString \
 	/home/anhtdh/Qt/6.10.0/gcc_64/include/QtCore/q17memory.h \
