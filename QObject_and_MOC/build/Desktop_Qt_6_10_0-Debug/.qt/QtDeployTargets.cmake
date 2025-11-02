@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QObject_and_MOC_FILE /home/anhtdh/QT/QObject_and_MOC/build/Desktop_Qt_6_10_0-Debug/QObject_and_MOC)
+set(__QT_DEPLOY_TARGET_QObject_and_MOC_TYPE EXECUTABLE)

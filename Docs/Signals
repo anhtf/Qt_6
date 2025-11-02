@@ -1,0 +1,5 @@
+- Slot is a METHOD or FUNTION 
+- Inheritted to QOject, avoid memory leak when destruct Object parents
+
+* QObject *obj = new MyWidget;
+  QWidget *widget = qobject_cast<QWidget *>(obj);

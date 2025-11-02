@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6a2a963870748f1c8d92.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QObject_and_MOC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QObject_and_MOC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QObject_and_MOC-Debug-9e1fdd66cc5fe528d6d3.json",
+					"name" : "QObject_and_MOC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QObject_and_MOC_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QObject_and_MOC_autogen-Debug-dbca2804160d15629df6.json",
+					"name" : "QObject_and_MOC_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QObject_and_MOC_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QObject_and_MOC_autogen_timestamp_deps-Debug-b6322708d5195461bd17.json",
+					"name" : "QObject_and_MOC_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/anhtdh/QT/QObject_and_MOC/build/Desktop_Qt_6_10_0-Debug",
+		"source" : "/home/anhtdh/QT/QObject_and_MOC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
