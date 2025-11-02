@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_First_Qt_Project_FILE /home/anhtdh/QT/First_Qt_Project/build/Desktop_Qt_6_10_0-Debug/First_Qt_Project)
+set(__QT_DEPLOY_TARGET_First_Qt_Project_TYPE EXECUTABLE)

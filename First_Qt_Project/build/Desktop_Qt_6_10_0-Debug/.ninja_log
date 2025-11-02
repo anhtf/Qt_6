@@ -1,0 +1,10 @@
+# ninja log v6
+2	86	1762015004052891535	/home/anhtdh/QT/First_Qt_Project/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/cmake.verify_globs	bc56a550169fc039
+87	4946	1762015008988483607	First_Qt_Project_autogen/timestamp	38e287acf730e6f4
+87	4946	1762015008988483607	First_Qt_Project_autogen/mocs_compilation.cpp	38e287acf730e6f4
+87	4946	1762015008988483607	/home/anhtdh/QT/First_Qt_Project/build/Desktop_Qt_6_10_0-Debug/First_Qt_Project_autogen/timestamp	38e287acf730e6f4
+87	4946	1762015008988483607	/home/anhtdh/QT/First_Qt_Project/build/Desktop_Qt_6_10_0-Debug/First_Qt_Project_autogen/mocs_compilation.cpp	38e287acf730e6f4
+4948	8127	1762015008997483820	CMakeFiles/First_Qt_Project.dir/First_Qt_Project_autogen/mocs_compilation.cpp.o	5dc27e332f835ca4
+4948	8313	1762015008999095970	CMakeFiles/First_Qt_Project.dir/mainwindow.cpp.o	dc8dde05eeebde8
+4948	8327	1762015008998794981	CMakeFiles/First_Qt_Project.dir/main.cpp.o	f81595d767d948da
+8327	8851	1762015012377563627	First_Qt_Project	deec478a773523ac
