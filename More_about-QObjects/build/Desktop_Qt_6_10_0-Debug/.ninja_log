@@ -1,0 +1,23 @@
+# ninja log v5
+5	19	1762440453601736867	More_about-QObjects_autogen/timestamp	890841fdc8e01e67
+5	19	1762440453601736867	More_about-QObjects_autogen/mocs_compilation.cpp	890841fdc8e01e67
+5	19	1762440453601736867	/home/anhtdh/QT/More_about-QObjects/build/Desktop_Qt_6_10_0-Debug/More_about-QObjects_autogen/timestamp	890841fdc8e01e67
+5	19	1762440453601736867	/home/anhtdh/QT/More_about-QObjects/build/Desktop_Qt_6_10_0-Debug/More_about-QObjects_autogen/mocs_compilation.cpp	890841fdc8e01e67
+333	2585	1762440139981208751	CMakeFiles/More_about-QObjects.dir/User.cpp.o	eb95171716eb1355
+21	2211	1762440458354145636	CMakeFiles/More_about-QObjects.dir/main.cpp.o	7a00a1f0ae6ab030
+332	3435	1762440140831238699	CMakeFiles/More_about-QObjects.dir/More_about-QObjects_autogen/mocs_compilation.cpp.o	339189a2440ec030
+2211	2371	1762440458512150951	More_about-QObjects	4dbed5b069384bd
+3	470	1762443250875447902	More_about-QObjects_autogen/timestamp	890841fdc8e01e67
+3	470	1762443250875447902	More_about-QObjects_autogen/mocs_compilation.cpp	890841fdc8e01e67
+3	470	1762443250875447902	/home/anhtdh/QT/More_about-QObjects/build/Desktop_Qt_6_10_0-Debug/More_about-QObjects_autogen/timestamp	890841fdc8e01e67
+3	470	1762443250875447902	/home/anhtdh/QT/More_about-QObjects/build/Desktop_Qt_6_10_0-Debug/More_about-QObjects_autogen/mocs_compilation.cpp	890841fdc8e01e67
+470	3242	1762443253651529819	CMakeFiles/More_about-QObjects.dir/More_about-QObjects_autogen/mocs_compilation.cpp.o	339189a2440ec030
+471	3918	1762443254326549738	CMakeFiles/More_about-QObjects.dir/User.cpp.o	eb95171716eb1355
+471	4374	1762443254783563224	CMakeFiles/More_about-QObjects.dir/ChatRoom.cpp.o	e52a87a5a1eff40d
+470	4577	1762443254986569214	CMakeFiles/More_about-QObjects.dir/main.cpp.o	7a00a1f0ae6ab030
+4	19	1762443312166801551	More_about-QObjects_autogen/timestamp	890841fdc8e01e67
+4	19	1762443312166801551	More_about-QObjects_autogen/mocs_compilation.cpp	890841fdc8e01e67
+4	19	1762443312166801551	/home/anhtdh/QT/More_about-QObjects/build/Desktop_Qt_6_10_0-Debug/More_about-QObjects_autogen/timestamp	890841fdc8e01e67
+4	19	1762443312166801551	/home/anhtdh/QT/More_about-QObjects/build/Desktop_Qt_6_10_0-Debug/More_about-QObjects_autogen/mocs_compilation.cpp	890841fdc8e01e67
+20	2595	1762443320787511998	CMakeFiles/More_about-QObjects.dir/ChatRoom.cpp.o	e52a87a5a1eff40d
+2595	2805	1762443320995518143	More_about-QObjects	d01ba732d4cc8b81
